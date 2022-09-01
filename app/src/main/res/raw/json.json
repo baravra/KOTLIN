@@ -1,0 +1,19 @@
+{
+  "Cars": [
+    {
+      "name": "BMW",
+      "value": 850000,
+      "id": 1
+    },
+    {
+      "name": "TORO",
+      "value": 150000,
+      "id": 2
+    },
+    {
+      "name": "Toyota Corolla",
+      "value": 150000,
+      "id": 3
+    }
+  ]
+}
